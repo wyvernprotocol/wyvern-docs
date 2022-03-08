@@ -1,2 +1,4 @@
 # wyvern-docs
-Documentation for Wyvern Protocol
+Placeholder for community generated documentation for Wyvern protocol
+
+Submit PRs to make changes
